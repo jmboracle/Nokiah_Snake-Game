@@ -23,3 +23,6 @@ How to run:
  3. Run the game! (code attached):
       ⇒ nokiah_snake_game.py
 
+
+Screenshots: ⚄ https://ibb.co/ZRgQWhpm ⚄ https://ibb.co/TxzXR5dN ⚄ https://ibb.co/cX17WCZ4 ⚄ https://ibb.co/Swynj2Jv
+
