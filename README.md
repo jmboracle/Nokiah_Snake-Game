@@ -24,5 +24,5 @@ How to run:
       ⇒ nokiah_snake_game.py
 
 
-Screenshots: ⚄ https://ibb.co/ZRgQWhpm ⚄ https://ibb.co/TxzXR5dN ⚄ https://ibb.co/cX17WCZ4 ⚄ https://ibb.co/Swynj2Jv
+Screenshots: ⚄ https://ibb.co/ZRgQWhpm ⚄ https://ibb.co/N2PWWtmM ⚄ https://ibb.co/23psxd08
 
